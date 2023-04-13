@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\USER\Desktop\Diary Software\Diary_Software.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\USER\Desktop\Diary Software\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\USER\Desktop\Diary Software\jre\bin\javaw.exe (OK)
+Version string: 1.019.000_002 / 64-Bit (OK)
+Launcher:	C:\Users\USER\Desktop\Diary Software\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\USER\Desktop\Diary Software\Diary_Software.exe"
+Args length:	62/32768 chars
+Exit code:	0
